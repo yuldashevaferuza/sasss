@@ -1,0 +1,390 @@
+@media (max-width: 1024px) {
+  #header .nav__items__item {
+    font-size: 14px;
+  }
+
+  #header .nav__login__btn {
+    font-size: 14px;
+  }
+
+  #hero .hero__img0 {
+    width: 600px;
+  }
+
+  #hero .hero__img1 {
+    width: 640px;
+  }
+
+  #hero .hero__img2 {
+    margin-top: -1150px;
+    margin-left: 480px;
+  }
+
+  #hero .hero__title1 {
+    font-size: 25px;
+  }
+
+  #hero .hero__title__desc {
+    font-size: 14px;
+    width: 280px;
+  }
+
+  #hero .hero__btn {
+    font-size: 14px;
+    padding: 15px 60px;
+  }
+
+  .global__img {
+    width: 600px;
+  }
+
+  #global .global__title2 {
+    font-size: 25px;
+  }
+
+  #global .global__desk {
+    font-size: 14px;
+    width: 280px;
+  }
+
+  .global__img3 {
+    width: 650px;
+  }
+
+  #lot .lot__block__img {
+    margin-left: 60px;
+  }
+
+  #lot .lot__block__btn {
+    margin-left: 327px;
+  }
+
+  .slider__block__title {
+    margin-left: 175px;
+  }
+
+  #our .our__block__btn {
+    margin-left: 200px;
+  }
+
+  #our .our__block__img {
+    margin-left: 80px;
+  }
+
+  #about .about__block__btn {
+    margin-left: 334px;
+  }
+
+  #about .about__block__decor {
+    width: 900px;
+    margin-left: 11px;
+  }
+
+  #footer .footer__block__menu {
+    font-size: 11px;
+  }
+}
+@media (max-width: 992px) {
+  #header .nav__items__item {
+    font-size: 14px;
+  }
+
+  #header .nav__login__btn {
+    font-size: 14px;
+  }
+
+  #hero .hero__img0 {
+    width: 600px;
+  }
+
+  #hero .hero__img1 {
+    width: 640px;
+  }
+
+  #hero .hero__img2 {
+    margin-top: -1150px;
+    margin-left: 480px;
+  }
+
+  #hero .hero__title1 {
+    font-size: 25px;
+  }
+
+  #hero .hero__title__desc {
+    font-size: 14px;
+    width: 280px;
+  }
+
+  #hero .hero__btn {
+    font-size: 14px;
+    padding: 15px 60px;
+  }
+
+  .global__img {
+    width: 600px;
+  }
+
+  #global .global__title2 {
+    font-size: 25px;
+  }
+
+  #global .global__desk {
+    font-size: 14px;
+    width: 280px;
+  }
+
+  .global__img3 {
+    width: 650px;
+  }
+
+  #lot .lot__block__img {
+    margin-left: 60px;
+  }
+
+  #lot .lot__block__btn {
+    margin-left: 327px;
+  }
+
+  .slider__block__title {
+    margin-left: 175px;
+  }
+
+  #our .our__block__btn {
+    margin-left: 200px;
+  }
+
+  #our .our__block__img {
+    margin-left: 80px;
+  }
+
+  #about .about__block__btn {
+    margin-left: 334px;
+  }
+
+  #about .about__block__decor {
+    width: 900px;
+    margin-left: 11px;
+  }
+
+  #footer .footer__block__menu {
+    font-size: 11px;
+  }
+}
+@media (max-width: 768px) {
+  #header .nav--logo {
+    font-size: 25px;
+  }
+
+  #header .nav__items__item {
+    font-size: 10px;
+  }
+
+  #hero .hero__img0 {
+    width: 470px;
+    height: 600px;
+  }
+
+  #hero .hero__img1 {
+    width: 570px;
+  }
+
+  #hero .hero__title1 {
+    width: 200px;
+    line-height: 30px;
+  }
+
+  #hero .hero__img1 {
+    width: 500px;
+  }
+
+  #header .nav__login__btn {
+    font-size: 9px;
+  }
+
+  #header .nav__login__btn1 {
+    font-size: 10px;
+  }
+
+  #hero .hero__title__desc {
+    font-size: 12px;
+    width: 250px;
+  }
+
+  #hero .hero__btn {
+    font-size: 12px;
+    padding: 15px 50px;
+  }
+
+  #hero .hero__img1 {
+    width: 500px;
+    height: 490px;
+    margin-top: -516px;
+  }
+
+  .global__img {
+    width: 480px;
+  }
+
+  #global .global__title2 {
+    font-size: 20px;
+  }
+
+  #global .global__desk {
+    font-size: 13px;
+    width: 250px;
+  }
+
+  .global__img3 {
+    width: 520px;
+    margin-top: 70px;
+  }
+
+  .global__img4 {
+    width: 500px;
+  }
+
+  #global .global__titles3 {
+    margin-top: 60px;
+  }
+
+  #global .global__title2 {
+    line-height: 32px;
+  }
+
+  #global .global__desk {
+    width: 240px;
+  }
+
+  .lot__block__titles {
+    width: 670px;
+  }
+
+  #lot .lot__block__img {
+    width: 600px;
+  }
+
+  #lot .lot__block__btn {
+    margin-left: 230px;
+  }
+
+  #our .our__block__btn1 {
+    padding: 12px 70px;
+  }
+
+  #our .our__block__btn2 {
+    padding: 11px 40px;
+  }
+
+  #our .our__block__btn {
+    margin-left: 140px;
+  }
+
+  #our .our__block__img {
+    width: 650px;
+    height: 400px;
+    margin-left: 10px;
+  }
+
+  #platform .platform__block__desk {
+    font-size: 14px;
+  }
+
+  #platform .platform__block__title2 {
+    font-size: 16px;
+  }
+
+  #about .about__block__btn {
+    margin-left: 220px;
+  }
+
+  #about .about__block__decor {
+    width: 700px;
+  }
+
+  #footer .footer__block__menu {
+    font-size: 8px;
+  }
+
+  #footer .footer__block__login {
+    font-size: 10px;
+  }
+}
+@media (max-width: 576px) {
+  #header .nav--logo {
+    font-size: 16px;
+  }
+
+  #header .nav__items__item {
+    font-size: 7px;
+  }
+
+  #header .nav__login__btn {
+    font-size: 7px;
+  }
+
+  #header .nav__login__btn1 {
+    padding: 7px 20px;
+    font-size: 7px;
+  }
+
+  #header .nav__items__item {
+    margin: 0 16px;
+  }
+
+  #header .nav__items__item {
+    font-size: 7px;
+  }
+
+  .nav__items {
+    margin-top: -10px;
+  }
+
+  .nav__login {
+    margin-top: -10px;
+  }
+
+  #hero .hero__img1 {
+    width: 400px;
+    height: 412px;
+    margin-top: -439px;
+    margin-left: -20px;
+  }
+
+  #hero .hero__img0 {
+    width: 350px;
+    height: 500px;
+    padding-top: 50px;
+  }
+
+  #hero .hero__img2 {
+    margin-top: -829px;
+    margin-left: 275px;
+    width: 250px;
+  }
+
+  #hero .hero__title1 {
+    font-size: 18px;
+    width: 145px;
+  }
+
+  #hero .hero__title__desc {
+    font-size: 10px;
+    width: 164px;
+    line-height: 16px;
+  }
+
+  #hero .hero__title {
+    margin-top: 200px;
+  }
+
+  #hero .hero__btn {
+    font-size: 9px;
+    padding: 12px 20px;
+  }
+
+  #companies .companies__title {
+    font-size: 20px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
